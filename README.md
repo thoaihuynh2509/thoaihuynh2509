@@ -72,7 +72,7 @@
 ### 📈 Github Stats
 
 <div>
-  <img align="left" alt="caothuphu2013's Github Stats" src="https://github-readme-stats.caothuphu2013.vercel.app/api?username=caothuphu2013&show_icons=true&hide_border=true&title_color=79b8ff&bg_color=24292e&text_color=79b8ff&hide=stars,issues"/>
+  <img align="left" alt="caothuphu2013's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=caothuphu2013&repo=github-readme-stats"/>
 </div>
 
 <br />
