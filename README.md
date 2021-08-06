@@ -71,7 +71,7 @@
 
 ### 📈 Github Stats
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caothuphu2013&repo=github-readme-stats)](https://github.com/caothuphu2013/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/caothuphu2013/github-readme-stats)
 
 
 <br />
