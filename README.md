@@ -1,7 +1,7 @@
-## Hi, I'm Karan 👨‍💻
+## Hi, I'm Thoai 👨‍💻
 
-#### B.Tech. student at Vishwakarma Institute of Technology, Pune.
-![](https://komarev.com/ghpvc/?username=shettykaran21&color=79b8ff)
+#### B.Tech. student at University of Science, HCM.
+![](https://komarev.com/ghpvc/?username=caothuphu2013&color=79b8ff)
 
 <br />
 
