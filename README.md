@@ -71,9 +71,8 @@
 
 ### 📈 Github Stats
 
-<div>
-  <img align="left" alt="caothuphu2013's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=caothuphu2013&repo=github-readme-stats"/>
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caothuphu2013&repo=github-readme-stats)](https://github.com/caothuphu2013/github-readme-stats)
+
 
 <br />
 
