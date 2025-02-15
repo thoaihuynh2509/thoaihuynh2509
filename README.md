@@ -5,7 +5,6 @@
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://huynhtrongthoai.medium.com/)
 [![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/caothuphu2013?tab=followers)
 
-**💼 Currently working as:** Senior Frontend Engineering at <a href="https://finbase.vn/" target="_blank"><b>Finbase</b></a>
 
 **👨🏻‍💻 Currently working on:** 
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
