@@ -5,12 +5,6 @@
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://huynhtrongthoai.medium.com/)
 [![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/thoaihuynh2509?tab=followers)
 
-
-**👨🏻‍💻 Currently working on:** 
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
-<code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
-
 ![Thoaihuynh2509's github stats](https://github-readme-stats.vercel.app/api?username=thoaihuynh2509&show_icons=true&line_height=30)
 
 🌱 Learning all about **Open Source**
